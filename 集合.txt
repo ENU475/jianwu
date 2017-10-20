@@ -1,4 +1,4 @@
-集合：
+﻿集合：
 	Map:
 		HashMap：	不同步，允许一个null键，多个null值
 		Hashtable：	同步  ，不允许null键值，Java 5提供了ConcurrentHashMap，它是HashTable的替代

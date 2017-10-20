@@ -1,9 +1,9 @@
-ASCII  			7Î»
-ISOLatin-1		Ò»¸ö×Ö½Ú
-GB2312			Á½¸ö×Ö½Ú
-GBK 			Á½¸ö×Ö½Ú
-GB18030			Á½¸ö×Ö½Ú
-UNICODE			Á½¸ö×Ö½Ú
-UTF-8±àÂë		1-4¸ö×Ö½Ú
-UTF-16±àÂë  2¸ö×Ö½ÚÎª×îÐ¡µ¥Î»
-ANSI  			ÔÚ¼òÌåÖÐÎÄWindows²Ù×÷ÏµÍ³ÖÐ£¬ANSI ±àÂë´ú±í GBK ±àÂë
+ï»¿ASCII  			7ä½
+ISOLatin-1		ä¸€ä¸ªå­—èŠ‚
+GB2312			ä¸¤ä¸ªå­—èŠ‚
+GBK 			ä¸¤ä¸ªå­—èŠ‚
+GB18030			ä¸¤ä¸ªå­—èŠ‚
+UNICODE			ä¸¤ä¸ªå­—èŠ‚
+UTF-8ç¼–ç 		1-4ä¸ªå­—èŠ‚
+UTF-16ç¼–ç   2ä¸ªå­—èŠ‚ä¸ºæœ€å°å•ä½
+ANSI  			åœ¨ç®€ä½“ä¸­æ–‡Windowsæ“ä½œç³»ç»Ÿä¸­ï¼ŒANSI ç¼–ç ä»£è¡¨ GBK ç¼–ç 
