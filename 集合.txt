@@ -1,0 +1,14 @@
+集合：
+	Map:
+		HashMap：	不同步，允许一个null键，多个null值
+		Hashtable：	同步  ，不允许null键值，Java 5提供了ConcurrentHashMap，它是HashTable的替代
+	
+	Collection:
+				List			有序的，可重复，查询块，增删慢
+					ArrayList:		不同步，查询块，ArrayList基于动态数组的数据结构。 	增加50%
+					LinkedList:		不同步，增删快，LinkedList基于链表的数据结构。
+					Vector:    		同步												容量翻倍
+							Stack:	后进先出
+				Set				无序的，不重复，查询慢，增删快
+					HashSet			不同步，无序的，可以放入null，不重复判断：先调用hashCode方法判断，无法判断再调用equals方法判断。
+					TreeSet			不同步，有序的, 不可放入null，不重复判断：要求类必须实现接口Comparable，用compareTo方法判断，并排序。

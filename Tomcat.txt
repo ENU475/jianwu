@@ -1,0 +1,19 @@
+1.
+Tomcat是web服务器JSP，Servlet的容器，免安装，解压即可使用
+2.
+配置下环境变量：
+变量名：CATALINA_HOME
+变量值：刚刚安装的路径   如D:\thisiswork\apache-tomcat-7.0.70
+3.双击启动
+D:\thisiswork\apache-tomcat-7.0.70\bin\startup.bat
+
+
+tomcat目录结构：	
+				bin:存放平台上用于启动和关闭tomcat的各种命令
+				conf：存放tomcat的各种配置文件
+				lib：存放tomcat所需的各种jar文件
+				logs：存放tomcat的日志文件
+				temp：tomcat运行是存放临时文件
+				webapps：当发布web应用时，默认会将web应用的文件发布到此目录中
+				work：tomcat把JSP生成的Servlet存放于此目录
+
